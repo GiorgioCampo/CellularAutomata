@@ -1,0 +1,8 @@
+4-Neighborhood rules that exhibit Rule 110 characteristics:
+[26776 30852 34360 38436]
+None shows signs of life
+
+
+5-Neighborhood rules that exhibit Rule 110 characteristics:
+[477362]
+None shows signs of life
